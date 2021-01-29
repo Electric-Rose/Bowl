@@ -1,0 +1,33 @@
+h1{color:hsl(282, 25%, 56%);text-align:center;font-family: Baskerville;}
+
+h2{color:hsl(282, 25%, 56%);text-align:center;font-family: 'Times New Roman', Times, serif;}
+
+h3{color: hsl(32, 87%, 78%);font-family: Georgia, 'Times New Roman', Times, serif;}
+
+tr{color: rgb(243, 233, 208);}
+
+label{color: rgb(243, 233, 208);}
+
+.form{color: rgb(243, 233, 208);}
+
+nav{color: rgb(235, 130, 212);align-content: center;font-size: larger;}
+
+.pic{display:block;margin-left:auto;margin-right:auto;}
+
+body{background-color:rgb(33, 26, 39)}
+
+#navbar 
+
+.photobubble {background-color: black;margin:20px;border-style:dashed;border-color:white; 
+    padding: 50px;position: center;text-align: center;}
+
+    #download {display: block;border-color:white;padding:10px,20px,10px,20px;position: relative;}
+
+
+a:link{color: rgb(235, 130, 212)}
+a:visited{color:hsl(282, 25%, 56%)}
+a:hover{color:rgb(23, 109, 23)}
+
+.rollin{background-color: aliceblue;overflow:scroll;max-width:500px;padding:40px;height:300px;margin-right: 50px;}
+
+.leftbox {float: right;padding: 20px;margin-right: 40px;margin-left: 40px;}
